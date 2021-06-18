@@ -10,11 +10,11 @@ A custom grid based framework inspired by Bootstrap and SCSS.
 
 **Size Layout** `size-layout` as _variable_;
 
-`xs` - Extra Small - Width: 360px
-`sm` - Small - Width: 540px
-`md` - Medium - Width: 720px
-`lg` - Large - Width: 960px
-`xl` - Extra Large - Width: 1140px
+- `xs` - Extra Small - Width: 360px
+- `sm` - Small - Width: 540px
+- `md` - Medium - Width: 720px
+- `lg` - Large - Width: 960px
+- `xl` - Extra Large - Width: 1140px
 
 ### Container Layout
 `1fr` based grid to encompass rows and columns. This is the base section for any `section` and `div`.
