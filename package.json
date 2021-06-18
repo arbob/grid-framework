@@ -1,0 +1,25 @@
+{
+  "name": "grid-framework",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Creating grid based framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbob/grid-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbob/grid-framework/issues"
+  },
+  "homepage": "https://github.com/arbob/grid-framework#readme",
+  "dependencies": {
+    "sass": "^1.35.1"
+  }
+}
