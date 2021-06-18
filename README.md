@@ -1,6 +1,6 @@
 # A Grid based Framework
 
-A custom grid based framework inspired by Bootstrap and SCSS.
+A Custom 12-Grid based Framework inspired by Bootstrap and SCSS.
 - Inbuilt CSS Reset
 - Inbuilt Clearfix
 - Responsive Design
