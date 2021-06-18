@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/arbob/grid-framework/issues"
   },
-  "homepage": "https://github.com/arbob/grid-framework#readme",
-  "dependencies": {
-    "sass": "^1.35.1"
-  }
+  "homepage": "https://github.com/arbob/grid-framework#readme"
 }
