@@ -1,6 +1,6 @@
 # A Grid based Framework
 
-A custom bootstrap based framework.
+A custom grid based framework inspired by Bootstrap and SCSS.
 - Inbuilt CSS Reset
 - Inbuilt Clearfix
 - Responsive Design
@@ -51,4 +51,140 @@ _Variable_ - `$display: none, inline, block, inline-block, flex, grid;`
 
 ## Justify Utilities
 ### Justify Content Utilities
+**Syntax**
+`.jc-{variable}`
 
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Justify Items Utilities
+**Syntax**
+`.ji-{variable}`
+
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Justify Self Utilities
+**Syntax**
+`.js-{variable}`
+
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Align Content Utilities
+**Syntax**
+`.ac-{variable}`
+
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Align Items Utilities
+**Syntax**
+`.ai-{variable}`
+
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Align Self Utilities
+**Syntax**
+`.as-{variable}`
+
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Place Content Utilities
+**Syntax**
+`.pc-{variable}`
+
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Place Self Utilities
+**Syntax**
+`.ps-{variable}`
+
+_Variables_ 
+- s: start
+- e: end
+- c: center
+- str: stretch
+- sa: space-around
+- sb: space-between
+
+### Row and Column Gap
+> `10px` is default value.
+
+`.r-g { row-gap: 10px; }`
+
+`.c-g { column-gap: 10px; }`
+
+### Border Utilities
+**Syntax**
+`.border-{variable}`
+
+> `1px solid #aaa` is the default value.
+
+_Variables_ - top, left, right, bottom, `blank` _for all sides_.
+
+**Border Radius**
+`.br { border-radius: 5px; }`
+
+### Position Utilities
+**Syntax**
+`.p-{variable}`
+
+_Variables_ - static, relative, absolute, fixed, sticky.
+
+### Button Component
+**Syntax**
+`.btn`
+
+### Other Important Utilities
+
+`.ta-c { text-align: center; }`
+
+`.gaf-r { grid-auto-flow: row; }`
+`.gaf-c { grid-auto-flow: column; }`
+
+`.fd-r { flex-direction: row; }`
+`.fd-c { flex-direction: column; }`
+
+`.fw-r { flex-wrap: row; }`
+
+
+`.text-bold { font-weight: bold; }`
