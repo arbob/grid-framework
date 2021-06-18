@@ -86,6 +86,7 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  font-family: Arial, Helvetica, sans-serif;
 }
 /* HTML5 display-role reset for older browsers */
 article,
@@ -123,9 +124,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-* {
-  outline: 1px solid black !important;
-}
+
 /* Clear Floated Elements
 ----------------------------------------------------------------------------------------------------*/
 
@@ -1100,6 +1099,9 @@ table {
 .no-gap {
   gap: 0;
 }
+.r-g {
+  row-gap: 10px;
+}
 
 /* Border Utilities */
 .border-top {
@@ -1145,8 +1147,8 @@ table {
 
 /* Button Components */
 .btn {
-  width: 5em;
-  height: 2em;
+  width: auto;
+  height: 3em;
   font-size: medium;
   font-weight: bold;
 }
@@ -1156,7 +1158,7 @@ table {
   border-radius: 5px;
 }
 
-// Utilities
+/* Utilities */
 .ta-c {
     text-align: center;
 }
@@ -1172,6 +1174,11 @@ table {
 .fd-c {
     flex-direction: column;
 }
-.fw-w {
-  flex-wrap: wrap;
+.fw-r {
+  flex-wrap: row;
+}
+
+/* Font Layout */
+.text-bold {
+  font-weight: bold;
 }

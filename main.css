@@ -1,0 +1,39 @@
+.section-2 {
+  font-size: 20px;
+}
+.section-3 {
+  font-size: x-large;
+  margin: 2em auto;
+}
+.section-4 {
+  width: 70em;
+  font-size: larger;
+}
+.section-4 h3 {
+  font-weight: bold;
+}
+.section-5 {
+  font-size: x-large;
+  margin: 1em auto;
+}
+.section-6, .section-7, .section-8 {
+  width: 50em;
+}
+.section-6 img {
+  width: 10em;
+}
+.section-7 img {
+  width: 10em;
+}
+.section-8 img {
+  width: 10em;
+}
+.section-6 span {
+  font-weight: bold;
+}
+.section-7 span {
+  font-weight: bold;
+}
+.section-8 span {
+  font-weight: bold;
+}
