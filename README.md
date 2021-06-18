@@ -1,2 +1,3 @@
-# grid-framework
-A grid based framework
+# A Grid based Framework
+
+Creating grid based framework.
