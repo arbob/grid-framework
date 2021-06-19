@@ -49,102 +49,46 @@ _Variable_ - `$display: none, inline, block, inline-block, flex, grid;`
 
 `.float-right { float: right; }`
 
-## Justify Utilities
-### Justify Content Utilities
-**Syntax**
-`.jc-{variable}`
-
-_Variables_ 
+## Justify and Align Utilities
+_JA-Variables Used_ 
 - s: start
 - e: end
 - c: center
 - str: stretch
 - sa: space-around
 - sb: space-between
+- 
+### Justify Content Utilities
+**Syntax**
+`.jc-{JA-variable}`
 
 ### Justify Items Utilities
 **Syntax**
-`.ji-{variable}`
-
-_Variables_ 
-- s: start
-- e: end
-- c: center
-- str: stretch
-- sa: space-around
-- sb: space-between
+`.ji-{JA-variable}`
 
 ### Justify Self Utilities
 **Syntax**
-`.js-{variable}`
-
-_Variables_ 
-- s: start
-- e: end
-- c: center
-- str: stretch
-- sa: space-around
-- sb: space-between
+`.js-{JA-variable}`
 
 ### Align Content Utilities
 **Syntax**
-`.ac-{variable}`
-
-_Variables_ 
-- s: start
-- e: end
-- c: center
-- str: stretch
-- sa: space-around
-- sb: space-between
+`.ac-{JA-variable}`
 
 ### Align Items Utilities
 **Syntax**
-`.ai-{variable}`
-
-_Variables_ 
-- s: start
-- e: end
-- c: center
-- str: stretch
-- sa: space-around
-- sb: space-between
+`.ai-{JA-variable}`
 
 ### Align Self Utilities
 **Syntax**
-`.as-{variable}`
-
-_Variables_ 
-- s: start
-- e: end
-- c: center
-- str: stretch
-- sa: space-around
-- sb: space-between
+`.as-{JA-variable}`
 
 ### Place Content Utilities
 **Syntax**
-`.pc-{variable}`
-
-_Variables_ 
-- s: start
-- e: end
-- c: center
-- str: stretch
-- sa: space-around
-- sb: space-between
+`.pc-{JA-variable}`
 
 ### Place Self Utilities
 **Syntax**
-`.ps-{variable}`
-
-_Variables_ 
-- s: start
-- e: end
-- c: center
-- str: stretch
-- sa: space-around
-- sb: space-between
+`.ps-{JA-variable}`
 
 ### Row and Column Gap
 > `10px` is default value.
