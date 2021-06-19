@@ -57,7 +57,7 @@ _JA-Variables Used_
 - str: stretch
 - sa: space-around
 - sb: space-between
-- 
+
 ### Justify Content Utilities
 **Syntax**
 `.jc-{JA-variable}`
