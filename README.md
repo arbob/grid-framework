@@ -6,6 +6,7 @@ A Custom 12-Grid based Framework inspired by Bootstrap and SCSS.
 - Responsive Design
 - 12 Column Grid based Layout
 - Customizable and modular
+
 ## How to use?
 
 **Size Layout** `size-layout` as _variable_;
